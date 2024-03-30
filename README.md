@@ -8,7 +8,7 @@ Yes, My name is not plorecnaqn but if you decifer it using ROT13, you will find 
 ## Objective
 
 
-Driven by my interest in technology, I've cultivated a deep-seated passion for cybersecurity. Presently, I am eager to shift my focus towards this domain, with a clear aim of securing a position as an Analyst within a Security Operations Center (SOC)..
+Driven by my interest in technology, I've cultivated a deep-seated passion for cybersecurity. Presently, I am eager to shift my focus towards this domain, with a clear aim of securing a position as an Analyst within a Security Operations Center (SOC).
 
 ## Skills
 
